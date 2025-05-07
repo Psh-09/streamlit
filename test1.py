@@ -15,3 +15,6 @@ with col2 :
 
 col1.subheader("I am column1 subheader")
 col2.checkbox("this is checkbox2 in col2")
+
+with tab2 :
+    st.write('시기다른 래퍼들의 반대편을 바라보던 래퍼들의 배포 그건 백프로 됐어 보인 각본 짜인 대본 텐션을 업을 해야지 제대로 난 이 게임에서 acroabat 내 랩들은 전부다 감으로해')
